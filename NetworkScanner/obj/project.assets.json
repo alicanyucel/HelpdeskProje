@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Can\\source\\repos\\RemoteDesktop\\NetworkScanner\\NetworkScanner.csproj",
+      "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj",
       "projectName": "NetworkScanner",
-      "projectPath": "C:\\Users\\Ali Can\\source\\repos\\RemoteDesktop\\NetworkScanner\\NetworkScanner.csproj",
+      "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj",
       "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Can\\source\\repos\\RemoteDesktop\\NetworkScanner\\obj\\",
+      "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

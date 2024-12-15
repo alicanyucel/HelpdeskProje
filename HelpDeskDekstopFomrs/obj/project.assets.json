@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows7.0": {
+      "NetworkScanner/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/NetworkScanner.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetworkScanner.dll": {}
+        }
+      },
+      "ShutDownComputer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ShutDownComputer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShutDownComputer.dll": {}
+        }
+      },
+      "WakeOnLan/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WakeOnLan.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WakeOnLan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetworkScanner/1.0.0": {
+      "type": "project",
+      "path": "../NetworkScanner/NetworkScanner.csproj",
+      "msbuildProject": "../NetworkScanner/NetworkScanner.csproj"
+    },
+    "ShutDownComputer/1.0.0": {
+      "type": "project",
+      "path": "../ShutDownComputer/ShutDownComputer.csproj",
+      "msbuildProject": "../ShutDownComputer/ShutDownComputer.csproj"
+    },
+    "WakeOnLan/1.0.0": {
+      "type": "project",
+      "path": "../WakeOnLan/WakeOnLan.csproj",
+      "msbuildProject": "../WakeOnLan/WakeOnLan.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows7.0": [
+      "NetworkScanner >= 1.0.0",
+      "ShutDownComputer >= 1.0.0",
+      "WakeOnLan >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ali Can\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\HelpDeskDekstopFomrs.csproj",
+      "projectName": "HelpDeskDekstopFomrs",
+      "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\HelpDeskDekstopFomrs.csproj",
+      "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ali Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj": {
+              "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj"
+            },
+            "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\ShutDownComputer.csproj": {
+              "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\ShutDownComputer.csproj"
+            },
+            "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj": {
+              "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0-windows7.0": {
+        "targetAlias": "net9.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

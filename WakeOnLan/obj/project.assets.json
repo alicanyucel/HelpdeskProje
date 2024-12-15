@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Can\\source\\repos\\RemoteDesktop\\WakeOnLan\\WakeOnLan.csproj",
+      "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj",
       "projectName": "WakeOnLan",
-      "projectPath": "C:\\Users\\Ali Can\\source\\repos\\RemoteDesktop\\WakeOnLan\\WakeOnLan.csproj",
+      "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj",
       "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Can\\source\\repos\\RemoteDesktop\\WakeOnLan\\obj\\",
+      "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

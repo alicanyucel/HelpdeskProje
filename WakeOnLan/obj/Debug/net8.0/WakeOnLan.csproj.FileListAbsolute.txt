@@ -1,0 +1,12 @@
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\bin\Debug\net8.0\WakeOnLan.deps.json
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\bin\Debug\net8.0\WakeOnLan.dll
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\bin\Debug\net8.0\WakeOnLan.pdb
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\obj\Debug\net8.0\WakeOnLan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\obj\Debug\net8.0\WakeOnLan.AssemblyInfoInputs.cache
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\obj\Debug\net8.0\WakeOnLan.AssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\obj\Debug\net8.0\WakeOnLan.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\obj\Debug\net8.0\WakeOnLan.sourcelink.json
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\obj\Debug\net8.0\WakeOnLan.dll
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\obj\Debug\net8.0\refint\WakeOnLan.dll
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\obj\Debug\net8.0\WakeOnLan.pdb
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WakeOnLan\obj\Debug\net8.0\ref\WakeOnLan.dll

@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HelpDeskDekstopFomrs/1.0.0": {
+        "dependencies": {
+          "NetworkScanner": "1.0.0",
+          "ShutDownComputer": "1.0.0",
+          "WakeOnLan": "1.0.0"
+        },
+        "runtime": {
+          "HelpDeskDekstopFomrs.dll": {}
+        }
+      },
+      "NetworkScanner/1.0.0": {
+        "runtime": {
+          "NetworkScanner.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ShutDownComputer/1.0.0": {
+        "runtime": {
+          "ShutDownComputer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WakeOnLan/1.0.0": {
+        "runtime": {
+          "WakeOnLan.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelpDeskDekstopFomrs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkScanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShutDownComputer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WakeOnLan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

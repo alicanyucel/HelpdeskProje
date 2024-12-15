@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\HelpDeskDekstopFomrs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\HelpDeskDekstopFomrs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\HelpDeskDekstopFomrs.csproj",
+        "projectName": "HelpDeskDekstopFomrs",
+        "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\HelpDeskDekstopFomrs.csproj",
+        "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ali Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj": {
+                "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj"
+              },
+              "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\ShutDownComputer.csproj": {
+                "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\ShutDownComputer.csproj"
+              },
+              "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj": {
+                "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj",
+        "projectName": "NetworkScanner",
+        "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj",
+        "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ali Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\ShutDownComputer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\ShutDownComputer.csproj",
+        "projectName": "ShutDownComputer",
+        "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\ShutDownComputer.csproj",
+        "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ali Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj",
+        "projectName": "WakeOnLan",
+        "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj",
+        "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ali Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShutDownComputer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ca231247ac52baaf063ea3468e9529946c586be")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShutDownComputer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShutDownComputer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\obj\Debug\net8.0\ShutDownComputer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\obj\Debug\net8.0\ShutDownComputer.AssemblyInfoInputs.cache
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\obj\Debug\net8.0\ShutDownComputer.AssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\obj\Debug\net8.0\ShutDownComputer.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\obj\Debug\net8.0\ShutDownComputer.sourcelink.json
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\bin\Debug\net8.0\ShutDownComputer.exe
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\bin\Debug\net8.0\ShutDownComputer.deps.json
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\bin\Debug\net8.0\ShutDownComputer.runtimeconfig.json
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\bin\Debug\net8.0\ShutDownComputer.dll
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\bin\Debug\net8.0\ShutDownComputer.pdb
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\obj\Debug\net8.0\ShutDownComputer.dll
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\obj\Debug\net8.0\refint\ShutDownComputer.dll
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\obj\Debug\net8.0\ShutDownComputer.pdb
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\obj\Debug\net8.0\ShutDownComputer.genruntimeconfig.cache
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\ShutDownComputer\obj\Debug\net8.0\ref\ShutDownComputer.dll

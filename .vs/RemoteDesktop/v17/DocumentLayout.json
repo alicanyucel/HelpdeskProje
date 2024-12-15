@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A00657D3-8E84-4EDC-8497-EB0271321F4B}|NetworkScanner\\NetworkScanner.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\networkscanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00657D3-8E84-4EDC-8497-EB0271321F4B}|NetworkScanner\\NetworkScanner.csproj|solutionrelative:networkscanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47F910E-EC8B-4CE7-8EE6-64DCAFBB6D67}|ShutDownComputer\\ShutDownComputer.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\shutdowncomputer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47F910E-EC8B-4CE7-8EE6-64DCAFBB6D67}|ShutDownComputer\\ShutDownComputer.csproj|solutionrelative:shutdowncomputer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47F910E-EC8B-4CE7-8EE6-64DCAFBB6D67}|ShutDownComputer\\ShutDownComputer.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\shutdowncomputer\\shutdowncomputer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E47F910E-EC8B-4CE7-8EE6-64DCAFBB6D67}|ShutDownComputer\\ShutDownComputer.csproj|solutionrelative:shutdowncomputer\\shutdowncomputer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D93FF0-67EE-4A0D-8443-3CCEA375AEB5}|HelpDeskDekstopFomrs\\HelpDeskDekstopFomrs.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\helpdeskdekstopfomrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6D93FF0-67EE-4A0D-8443-3CCEA375AEB5}|HelpDeskDekstopFomrs\\HelpDeskDekstopFomrs.csproj|solutionrelative:helpdeskdekstopfomrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00657D3-8E84-4EDC-8497-EB0271321F4B}|NetworkScanner\\NetworkScanner.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\networkscanner\\networkscanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A00657D3-8E84-4EDC-8497-EB0271321F4B}|NetworkScanner\\NetworkScanner.csproj|solutionrelative:networkscanner\\networkscanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6839636-87C5-496A-B5E8-CCB0BF895A75}|WakeOnLan\\WakeOnLan.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\wakeonlan\\wakeonlan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6839636-87C5-496A-B5E8-CCB0BF895A75}|WakeOnLan\\WakeOnLan.csproj|solutionrelative:wakeonlan\\wakeonlan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\NetworkScanner\\Program.cs",
+              "RelativeDocumentMoniker": "NetworkScanner\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\NetworkScanner\\Program.cs",
+              "RelativeToolTip": "NetworkScanner\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:10:19.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\Form1.cs",
+              "RelativeDocumentMoniker": "HelpDeskDekstopFomrs\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\Form1.cs [Design]",
+              "RelativeToolTip": "HelpDeskDekstopFomrs\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:03:13.739Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkScanner",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj",
+              "RelativeDocumentMoniker": "NetworkScanner\\NetworkScanner.csproj",
+              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj",
+              "RelativeToolTip": "NetworkScanner\\NetworkScanner.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T16:01:00.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\ShutDownComputer\\Program.cs",
+              "RelativeDocumentMoniker": "ShutDownComputer\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\ShutDownComputer\\Program.cs",
+              "RelativeToolTip": "ShutDownComputer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:00:12.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShutDownComputer",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\ShutDownComputer.csproj",
+              "RelativeDocumentMoniker": "ShutDownComputer\\ShutDownComputer.csproj",
+              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\ShutDownComputer.csproj",
+              "RelativeToolTip": "ShutDownComputer\\ShutDownComputer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T16:00:09.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WakeOnLan",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj",
+              "RelativeDocumentMoniker": "WakeOnLan\\WakeOnLan.csproj",
+              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj",
+              "RelativeToolTip": "WakeOnLan\\WakeOnLan.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T16:00:06.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
