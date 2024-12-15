@@ -1,0 +1,12 @@
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.exe
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.dll
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.dll
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\obj\Debug\net9.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.pdb

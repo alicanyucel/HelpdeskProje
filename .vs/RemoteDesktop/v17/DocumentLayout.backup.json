@@ -3,28 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A00657D3-8E84-4EDC-8497-EB0271321F4B}|NetworkScanner\\NetworkScanner.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\networkscanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A00657D3-8E84-4EDC-8497-EB0271321F4B}|NetworkScanner\\NetworkScanner.csproj|solutionrelative:networkscanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E47F910E-EC8B-4CE7-8EE6-64DCAFBB6D67}|ShutDownComputer\\ShutDownComputer.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\shutdowncomputer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E47F910E-EC8B-4CE7-8EE6-64DCAFBB6D67}|ShutDownComputer\\ShutDownComputer.csproj|solutionrelative:shutdowncomputer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E47F910E-EC8B-4CE7-8EE6-64DCAFBB6D67}|ShutDownComputer\\ShutDownComputer.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\shutdowncomputer\\shutdowncomputer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E47F910E-EC8B-4CE7-8EE6-64DCAFBB6D67}|ShutDownComputer\\ShutDownComputer.csproj|solutionrelative:shutdowncomputer\\shutdowncomputer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6D93FF0-67EE-4A0D-8443-3CCEA375AEB5}|HelpDeskDekstopFomrs\\HelpDeskDekstopFomrs.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\helpdeskdekstopfomrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C6D93FF0-67EE-4A0D-8443-3CCEA375AEB5}|HelpDeskDekstopFomrs\\HelpDeskDekstopFomrs.csproj|solutionrelative:helpdeskdekstopfomrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A00657D3-8E84-4EDC-8497-EB0271321F4B}|NetworkScanner\\NetworkScanner.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\networkscanner\\networkscanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A00657D3-8E84-4EDC-8497-EB0271321F4B}|NetworkScanner\\NetworkScanner.csproj|solutionrelative:networkscanner\\networkscanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6839636-87C5-496A-B5E8-CCB0BF895A75}|WakeOnLan\\WakeOnLan.csproj|c:\\users\\ali can\\source\\repos\\helpdeskproje\\wakeonlan\\wakeonlan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C6839636-87C5-496A-B5E8-CCB0BF895A75}|WakeOnLan\\WakeOnLan.csproj|solutionrelative:wakeonlan\\wakeonlan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,6 +84,44 @@
               "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAK8UAAAAAAAAAAAgwMkUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-15T17:01:41.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\WinFormsApp1\\Form1.cs*",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:55:06.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\WinFormsApp1\\Form1.cs [Design]*",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:52:19.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
@@ -105,81 +130,8 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\NetworkScanner\\Program.cs",
-              "RelativeDocumentMoniker": "NetworkScanner\\Program.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\NetworkScanner\\Program.cs",
-              "RelativeToolTip": "NetworkScanner\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T16:10:19.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\Form1.cs",
-              "RelativeDocumentMoniker": "HelpDeskDekstopFomrs\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\HelpDeskDekstopFomrs\\Form1.cs [Design]",
-              "RelativeToolTip": "HelpDeskDekstopFomrs\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T16:03:13.739Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NetworkScanner",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj",
-              "RelativeDocumentMoniker": "NetworkScanner\\NetworkScanner.csproj",
-              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\NetworkScanner\\NetworkScanner.csproj",
-              "RelativeToolTip": "NetworkScanner\\NetworkScanner.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-15T16:01:00.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\ShutDownComputer\\Program.cs",
-              "RelativeDocumentMoniker": "ShutDownComputer\\Program.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProje\\ShutDownComputer\\Program.cs",
-              "RelativeToolTip": "ShutDownComputer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T16:00:12.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShutDownComputer",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\ShutDownComputer.csproj",
-              "RelativeDocumentMoniker": "ShutDownComputer\\ShutDownComputer.csproj",
-              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\ShutDownComputer\\ShutDownComputer.csproj",
-              "RelativeToolTip": "ShutDownComputer\\ShutDownComputer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-15T16:00:09.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WakeOnLan",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj",
-              "RelativeDocumentMoniker": "WakeOnLan\\WakeOnLan.csproj",
-              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProje\\WakeOnLan\\WakeOnLan.csproj",
-              "RelativeToolTip": "WakeOnLan\\WakeOnLan.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-15T16:00:06.584Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         },

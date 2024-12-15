@@ -1,0 +1,7 @@
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskForm\obj\Debug\net9.0-windows\Form1.resources
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskForm\obj\Debug\net9.0-windows\HelpDeskForm.csproj.GenerateResource.cache
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskForm\obj\Debug\net9.0-windows\HelpDeskForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskForm\obj\Debug\net9.0-windows\HelpDeskForm.AssemblyInfoInputs.cache
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskForm\obj\Debug\net9.0-windows\HelpDeskForm.AssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskForm\obj\Debug\net9.0-windows\HelpDeskForm.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskForm\obj\Debug\net9.0-windows\HelpDeskForm.sourcelink.json

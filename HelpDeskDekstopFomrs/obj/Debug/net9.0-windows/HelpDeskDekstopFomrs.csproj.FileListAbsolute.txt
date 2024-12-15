@@ -29,3 +29,4 @@ C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskDekstopFomrs\obj\Debug\net9.
 C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskDekstopFomrs\obj\Debug\net9.0-windows\HelpDeskDekstopFomrs.pdb
 C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskDekstopFomrs\obj\Debug\net9.0-windows\HelpDeskDekstopFomrs.genruntimeconfig.cache
 C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskDekstopFomrs\obj\Debug\net9.0-windows\ref\HelpDeskDekstopFomrs.dll
+C:\Users\Ali Can\Source\Repos\HelpdeskProje\HelpDeskDekstopFomrs\obj\Debug\net9.0-windows\NetworkScannerForm.resources
