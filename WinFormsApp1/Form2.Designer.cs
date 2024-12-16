@@ -28,7 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
+            timer1 = new System.Windows.Forms.Timer(components);
             SuspendLayout();
+            // 
+            // timer1
+            // 
+            timer1.Tick += timer1_Tick;
             // 
             // Form2
             // 
@@ -37,10 +43,13 @@
             ClientSize = new Size(800, 450);
             Name = "Form2";
             Text = "Form2";
+            FormClosing += Form2_FormClosing;
             Load += Form2_Load;
             ResumeLayout(false);
         }
 
         #endregion
+
+        private System.Windows.Forms.Timer timer1;
     }
 }

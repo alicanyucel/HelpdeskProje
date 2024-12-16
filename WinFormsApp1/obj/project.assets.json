@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net9.0-windows7.0": {}
+    "net9.0-windows7.0": {
+      "RemoteManager/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/RemoteManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RemoteManager.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RemoteManager/1.0.0": {
+      "type": "project",
+      "path": "../RemoteManager/RemoteManager.csproj",
+      "msbuildProject": "../RemoteManager/RemoteManager.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0-windows7.0": []
+    "net9.0-windows7.0": [
+      "RemoteManager >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ali Can\\.nuget\\packages\\": {},
@@ -14,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProjes\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProjes\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProjes\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
@@ -38,7 +56,11 @@
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\RemoteManager.csproj": {
+              "projectPath": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\RemoteManager.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

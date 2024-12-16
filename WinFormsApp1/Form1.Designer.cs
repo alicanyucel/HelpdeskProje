@@ -28,68 +28,57 @@
         /// </summary>
         private void InitializeComponent()
         {
-            lbComputers = new ListBox();
-            btnShutdown = new Button();
-            btnWakeUp = new Button();
-            txtComputerName = new TextBox();
+            components = new System.ComponentModel.Container();
+            process1 = new System.Diagnostics.Process();
+            checkBox1 = new CheckBox();
+            timer1 = new System.Windows.Forms.Timer(components);
             SuspendLayout();
             // 
-            // lbComputers
+            // process1
             // 
-            lbComputers.FormattingEnabled = true;
-            lbComputers.Location = new Point(43, 49);
-            lbComputers.Name = "lbComputers";
-            lbComputers.Size = new Size(120, 139);
-            lbComputers.TabIndex = 0;
+            process1.StartInfo.Domain = "";
+            process1.StartInfo.LoadUserProfile = false;
+            process1.StartInfo.Password = null;
+            process1.StartInfo.StandardErrorEncoding = null;
+            process1.StartInfo.StandardInputEncoding = null;
+            process1.StartInfo.StandardOutputEncoding = null;
+            process1.StartInfo.UseCredentialsForNetworkingOnly = false;
+            process1.StartInfo.UserName = "";
+            process1.SynchronizingObject = this;
             // 
-            // btnShutdown
+            // checkBox1
             // 
-            btnShutdown.Location = new Point(338, 150);
-            btnShutdown.Name = "btnShutdown";
-            btnShutdown.Size = new Size(75, 23);
-            btnShutdown.TabIndex = 1;
-            btnShutdown.Text = "Kapat";
-            btnShutdown.UseVisualStyleBackColor = true;
-            btnShutdown.Click += btnShutdown_Click;
+            checkBox1.AutoSize = true;
+            checkBox1.Location = new Point(464, 110);
+            checkBox1.Name = "checkBox1";
+            checkBox1.Size = new Size(83, 19);
+            checkBox1.TabIndex = 0;
+            checkBox1.Text = "checkBox1";
+            checkBox1.UseVisualStyleBackColor = true;
+            checkBox1.CheckedChanged += checkBox1_CheckedChanged;
             // 
-            // btnWakeUp
+            // timer1
             // 
-            btnWakeUp.Location = new Point(191, 150);
-            btnWakeUp.Name = "btnWakeUp";
-            btnWakeUp.Size = new Size(75, 23);
-            btnWakeUp.TabIndex = 2;
-            btnWakeUp.Text = "Aç";
-            btnWakeUp.UseVisualStyleBackColor = true;
-            btnWakeUp.Click += btnWakeUp_Click;
-            // 
-            // txtComputerName
-            // 
-            txtComputerName.Location = new Point(191, 102);
-            txtComputerName.Name = "txtComputerName";
-            txtComputerName.Size = new Size(222, 23);
-            txtComputerName.TabIndex = 3;
+            timer1.Enabled = true;
+            timer1.Tick += timer1_Tick;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(txtComputerName);
-            Controls.Add(btnWakeUp);
-            Controls.Add(btnShutdown);
-            Controls.Add(lbComputers);
+            Controls.Add(checkBox1);
             Name = "Form1";
             Text = "Form1";
+            FormClosing += Form1_FormClosing;
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-
-        private ListBox lbComputers;
-        private Button btnShutdown;
-        private Button btnWakeUp;
-        private TextBox txtComputerName;
+        private System.Diagnostics.Process process1;
+        private CheckBox checkBox1;
+        private System.Windows.Forms.Timer timer1;
     }
 }

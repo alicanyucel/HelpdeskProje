@@ -1,0 +1,6 @@
+C:\Users\Ali Can\source\repos\HelpdeskProjes\RemoteManager\bin\Debug\RemoteManager.dll
+C:\Users\Ali Can\source\repos\HelpdeskProjes\RemoteManager\bin\Debug\RemoteManager.pdb
+C:\Users\Ali Can\source\repos\HelpdeskProjes\RemoteManager\obj\Debug\RemoteManager.csproj.AssemblyReference.cache
+C:\Users\Ali Can\source\repos\HelpdeskProjes\RemoteManager\obj\Debug\RemoteManager.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\source\repos\HelpdeskProjes\RemoteManager\obj\Debug\RemoteManager.dll
+C:\Users\Ali Can\source\repos\HelpdeskProjes\RemoteManager\obj\Debug\RemoteManager.pdb

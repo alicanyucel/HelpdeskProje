@@ -15,21 +15,23 @@ namespace WinFormsApp1
     {
         public Form2()
         {
-            InitializeComponent(); 
-            th=new Thread(init);
+            InitializeComponent();
+            th = new Thread(init);
         }
-        Thread th; 
+        Thread th;
         void init()
         {
-            while (true) {
+            while (true)
+            {
                 Process[] procs = Process.GetProcessesByName("shutdown");
-                for (int i = 0; i < procs.Length; i++) {
-                   
+                for (int i = 0; i < procs.Length; i++)
+                {
+
                     kill(procs[i]);
                     MessageBox.Show("killed");
                 }
             }
-        } 
+        }
         void kill(Process prc)
         {
             prc.Kill();
@@ -37,6 +39,16 @@ namespace WinFormsApp1
         private void Form2_Load(object sender, EventArgs e)
         {
             th.Start();
+        }
+
+        private void Form2_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            e.Cancel = true;
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+
         }
     }
 }

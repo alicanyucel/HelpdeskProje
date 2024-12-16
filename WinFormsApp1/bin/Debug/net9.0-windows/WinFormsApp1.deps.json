@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "WinFormsApp1/1.0.0": {
+        "dependencies": {
+          "RemoteManager": "1.0.0"
+        },
         "runtime": {
           "WinFormsApp1.dll": {}
+        }
+      },
+      "RemoteManager/1.0.0": {
+        "runtime": {
+          "RemoteManager.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteManager/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

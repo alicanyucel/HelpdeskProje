@@ -4,6 +4,22 @@
     "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\RemoteManager.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\RemoteManager.csproj",
+        "projectName": "RemoteManager",
+        "projectPath": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\RemoteManager.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
     "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -11,7 +27,7 @@
         "projectName": "WinFormsApp1",
         "projectPath": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\HelpdeskProjes\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,7 +47,11 @@
         "frameworks": {
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\RemoteManager.csproj": {
+                "projectPath": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\RemoteManager.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

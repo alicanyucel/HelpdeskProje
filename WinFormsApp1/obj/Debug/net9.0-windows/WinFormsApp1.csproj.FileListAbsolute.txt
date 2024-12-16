@@ -28,3 +28,7 @@ C:\Users\Ali Can\Source\Repos\HelpdeskProjes\WinFormsApp1\obj\Debug\net9.0-windo
 C:\Users\Ali Can\Source\Repos\HelpdeskProjes\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\Ali Can\Source\Repos\HelpdeskProjes\WinFormsApp1\obj\Debug\net9.0-windows\ref\WinFormsApp1.dll
 C:\Users\Ali Can\Source\Repos\HelpdeskProjes\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Ali Can\source\repos\HelpdeskProjes\WinFormsApp1\bin\Debug\net9.0-windows\RemoteManager.dll
+C:\Users\Ali Can\source\repos\HelpdeskProjes\WinFormsApp1\bin\Debug\net9.0-windows\RemoteManager.pdb
+C:\Users\Ali Can\source\repos\HelpdeskProjes\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ali Can\source\repos\HelpdeskProjes\WinFormsApp1\obj\Debug\net9.0-windows\WinForms.E4050A35.Up2Date

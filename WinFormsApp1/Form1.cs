@@ -1,4 +1,8 @@
+using RemoteManager;
+using RemoteManager.Serializer;
+using System.Diagnostics;
 using System.Net.NetworkInformation;
+using System.Runtime.InteropServices;
 
 namespace WinFormsApp1
 {
@@ -7,76 +11,70 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
+            SetProcessShutdownParameters(0x3FF, SHUTDOWN_NORETRY);
         }
+        //
+        public const int WM_QUERYENDSESSION = 0x0011;
+        public const int WM_ENDSESSION = 0x0016;
+        public const uint SHUTDOWN_NORETRY = 0x00000001;
 
-        private  void Form1_Load(object sender, EventArgs e)
+        [DllImport("user32.dll", SetLastError = true)]
+        static extern bool ShutdownBlockReasonCreate(IntPtr hWnd, [MarshalAs(UnmanagedType.LPWStr)] string reason);
+        [DllImport("user32.dll", SetLastError = true)]
+        static extern bool ShutdownBlockReasonDestroy(IntPtr hWnd);
+        [DllImport("kernel32.dll")]
+        static extern bool SetProcessShutdownParameters(uint dwLevel, uint dwFlags);
+        [DllImport("Advapi32.dll")]
+        static extern bool AbortSystemShutdownW([MarshalAs(UnmanagedType.LPWStr)] string lpMachineName);
+
+        protected override void WndProc(ref Message m)
         {
-            string str = "fdff"; 
-            Type typ= str.GetType();
+            if (m.Msg == WM_QUERYENDSESSION || m.Msg == WM_ENDSESSION)
+            {
+                // Prevent windows shutdown
+                ShutdownBlockReasonCreate(this.Handle, "I want to live!");
+
+                // This method must be called on the same thread as the one that have create the Handle, so use BeginInvoke
+
+
+                // Allow Windows to shutdown
+
+
+
+
+                return;
+            }
+
+            base.WndProc(ref m);
+        }
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            e.Cancel = checkBox1.Checked;
             
-        }
-        private async Task ScanNetwork(string subnet)
-        {
-            for (int i = 1; i < 255; i++)
-            {
-                string ip = $"{subnet}.{i}";
-                var ping = new Ping();
-                try
-                {
-                    PingReply reply = await ping.SendPingAsync(ip, 1000);
-                    if (reply.Status == IPStatus.Success)
-                    {
-                        lbComputers.Items.Add(ip); // Aktif bilgisayarlarý ListBox'a ekliyoruz
-                    }
-                }
-                catch (PingException ex)
-                {
-                    // Hata durumunda hiçbir iþlem yapmýyoruz
-                }
-            }
-        }
 
-        private void btnShutdown_Click(object sender, EventArgs e)
+
+
+
+        }
+        private void DoOperation(string oparation)
         {
 
-            // ListBox'tan seçili bilgisayarýn kapatýlmasý
-            string selectedComputer = lbComputers.SelectedItem as string;
-            if (!string.IsNullOrEmpty(selectedComputer))
-            {
-                ShutdownComputer(selectedComputer);
-            }
+
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+
         }
 
-        private void btnWakeUp_Click(object sender, EventArgs e)
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            // Wake-on-LAN iþlemi burada yapýlabilir
-            string? selectedComputer = lbComputers.SelectedItem as string;
-            if (!string.IsNullOrEmpty(selectedComputer))
-            {
-                WakeUpComputer(selectedComputer);
-            }
-        }
-        private void WakeUpComputer(string computerName)
-        {
-            // Wake-on-LAN komutunu göndermek için gerekli kodu ekleyin
-            // Bu kýsýmda, uzak bilgisayara bir Wake-on-LAN paket gönderilebilir.
-            MessageBox.Show($"Wake-up command sent to {computerName}");
+
         }
 
-     
-        private void ShutdownComputer(string computerName)
+        private void timer1_Tick(object sender, EventArgs e)
         {
-            try
-            {
-                string command = $@"\\{computerName} shutdown /s /f /t 0";
-                System.Diagnostics.Process.Start("cmd.exe", "/C " + command);
-                MessageBox.Show($"Shutdown command sent to {computerName}");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Error: {ex.Message}");
-            }
+            bool ret=AbortSystemShutdownW(null);
         }
-
     }
 }

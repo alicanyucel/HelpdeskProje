@@ -34,6 +34,9 @@ namespace RemoteManager
                         sockets.Add(client);
                     }
                 }
+                for (int i = 0; i < sockets.Count; i++) {  
+                    readPacket(sockets[i]);
+                }
                 
             }
         } 
