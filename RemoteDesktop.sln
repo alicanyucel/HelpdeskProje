@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteManager", "RemoteManager\RemoteManager.csproj", "{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

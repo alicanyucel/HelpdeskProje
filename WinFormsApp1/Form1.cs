@@ -9,9 +9,10 @@ namespace WinFormsApp1
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private  void Form1_Load(object sender, EventArgs e)
         {
-         ScanNetwork("192.168.1");
+            string str = "fdff"; 
+            Type typ= str.GetType();
             
         }
         private async Task ScanNetwork(string subnet)
