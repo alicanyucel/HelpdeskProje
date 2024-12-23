@@ -1,50 +1,242 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\ali can\\source\\repos\\helpdeskprojes\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\ali can\\source\\repos\\helpdeskprojes\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\ali can\\source\\repos\\helpdeskprojes\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\ali can\\source\\repos\\helpdeskprojes\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C22F07-5DEA-4A2B-B205-3D8B69378B7E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\remotemanager\\computershutdownlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\computershutdownlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\remotemanager\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\iploginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\iploginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\remotemanager\\serializer\\binaryserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\serializer\\binaryserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\remotemanager\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\keymaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\keymaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\programstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\programstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|c:\\users\\user\\source\\repos\\helpdeskproje\\remotemanager\\istarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\istarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\iploginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\iploginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|c:\\users\\user\\source\\repos\\helpdeskproje\\remotelanmanager\\imagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\imagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|c:\\users\\user\\source\\repos\\helpdeskproje\\remotelanmanager\\imagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\imagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\computerscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\computerscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\serializer\\packetformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\serializer\\packetformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\keychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\keychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|c:\\users\\user\\source\\repos\\helpdeskproje\\remotemanager\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\remotemanager\\serializer\\packetformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\serializer\\packetformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\desktopviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\desktopviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\serializer\\binarypacketserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\serializer\\binarypacketserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B022A03-192C-43CD-8929-68AD25759012}|Aprotect\\Aprotect.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\aprotect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B022A03-192C-43CD-8929-68AD25759012}|Aprotect\\Aprotect.csproj|solutionrelative:aprotect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\installer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\installer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ComputerClient||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\desktopviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\desktopviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\serializer\\binaryserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\serializer\\binaryserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\serverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\serverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\serverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\serverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\clientenv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\clientenv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\computerscanner.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\computerscanner.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\computerscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\computerscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RemoteLanManager||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\progenv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\progenv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\keyinstallerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\keyinstallerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\keyinstallerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\keyinstallerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B022A03-192C-43CD-8929-68AD25759012}|Aprotect\\Aprotect.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\aprotect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B022A03-192C-43CD-8929-68AD25759012}|Aprotect\\Aprotect.csproj|solutionrelative:aprotect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\env.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\env.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\commandtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\commandtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\explorerlistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\explorerlistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotemanager\\explorerlistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{531C7D3D-7A70-4FD2-92B9-EE4E51EC036F}|RemoteManager\\RemoteManager.csproj|solutionrelative:remotemanager\\explorerlistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B022A03-192C-43CD-8929-68AD25759012}|Aprotect\\Aprotect.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\aprotect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B022A03-192C-43CD-8929-68AD25759012}|Aprotect\\Aprotect.csproj|solutionrelative:aprotect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RemoteManager||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Aprotect||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\keychangerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\keychangerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\remotelanmanager\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C319DD-43DC-4CB0-B064-8122D057F87A}|RemoteLanManager\\RemoteLanManager.csproj|solutionrelative:remotelanmanager\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|C:\\Users\\user\\source\\repos\\HelpdeskProje\\computerserver\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B09584-6609-4A6E-9419-4EEC7B25DA5B}|ComputerServer\\ComputerClient.csproj|solutionrelative:computerserver\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,34 +246,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 19,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\Server.cs",
-              "RelativeDocumentMoniker": "RemoteManager\\Server.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\Server.cs",
-              "RelativeToolTip": "RemoteManager\\Server.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T17:53:03.415Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BinarySerializer.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\Serializer\\BinarySerializer.cs",
-              "RelativeDocumentMoniker": "RemoteManager\\Serializer\\BinarySerializer.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\Serializer\\BinarySerializer.cs",
-              "RelativeToolTip": "RemoteManager\\Serializer\\BinarySerializer.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAmwIUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T17:47:13.71Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
               "$type": "Bookmark",
@@ -152,124 +321,737 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\MainForm.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\MainForm.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "ComputerServer\\MainForm.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:46:27.937Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Form1.cs",
-              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAuwE8AAAAIAAAAAAAAAA==",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\MainForm.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\MainForm.cs*",
+              "RelativeToolTip": "ComputerServer\\MainForm.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAawF4AAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T20:38:16.022Z",
+              "WhenOpened": "2024-12-19T08:47:10.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Program.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Program.cs",
-              "RelativeToolTip": "WinFormsApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\Form2.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\Form2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ComputerServer\\Form2.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T20:38:27.646Z"
+              "WhenOpened": "2024-12-20T07:30:32.978Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Form2.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Form2.cs",
-              "RelativeToolTip": "WinFormsApp1\\Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAxAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\Form2.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\Form2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\Form2.cs",
+              "RelativeToolTip": "ComputerServer\\Form2.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAawHwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T18:12:54.715Z",
+              "WhenOpened": "2024-12-20T07:30:33.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Form1.Designer.cs",
-              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RemoteLanManager\\MainForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T18:12:15.525Z",
+              "WhenOpened": "2024-12-19T09:07:30.749Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\Form1.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\Form1.cs",
+              "RelativeToolTip": "RemoteLanManager\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAEwC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:03:46.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ComputerShutdownLocker.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\ComputerShutdownLocker.cs",
-              "RelativeDocumentMoniker": "RemoteManager\\ComputerShutdownLocker.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\ComputerShutdownLocker.cs",
-              "RelativeToolTip": "RemoteManager\\ComputerShutdownLocker.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBkAAAAeAAAAAAAAAA==",
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\Form1.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RemoteLanManager\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:54:32.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Form2.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Form2.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T18:17:46.181Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PacketFormatter.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\Serializer\\PacketFormatter.cs",
-              "RelativeDocumentMoniker": "RemoteManager\\Serializer\\PacketFormatter.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\Serializer\\PacketFormatter.cs",
-              "RelativeToolTip": "RemoteManager\\Serializer\\PacketFormatter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T17:44:23.099Z"
+              "WhenOpened": "2024-12-19T09:01:13.192Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\Class1.cs",
-              "RelativeDocumentMoniker": "RemoteManager\\Class1.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\RemoteManager\\Class1.cs",
-              "RelativeToolTip": "RemoteManager\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Title": "IPLoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\IPLoginForm.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\IPLoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\IPLoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ComputerServer\\IPLoginForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T17:42:36.163Z"
+              "WhenOpened": "2024-12-19T08:48:30.818Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\HelpdeskProjes\\WinFormsApp1\\Form1.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\MainForm.cs",
+              "RelativeToolTip": "RemoteLanManager\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T16:52:19.564Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-19T10:01:59.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KeyMaker.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\KeyMaker.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\KeyMaker.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\KeyMaker.cs",
+              "RelativeToolTip": "RemoteManager\\KeyMaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:41:58.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProgramStartup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\ProgramStartup.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\ProgramStartup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\ProgramStartup.cs",
+              "RelativeToolTip": "RemoteManager\\ProgramStartup.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:02:54.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStarter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\IStarter.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\IStarter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\IStarter.cs",
+              "RelativeToolTip": "RemoteManager\\IStarter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:19:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\Form1.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ComputerServer\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:14:17.635Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPLoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\IPLoginForm.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\IPLoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\IPLoginForm.cs",
+              "RelativeToolTip": "ComputerServer\\IPLoginForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAvwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:48:39.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\LoginForm.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RemoteLanManager\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:17:07.083Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\Form1.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\Form1.cs",
+              "RelativeToolTip": "ComputerServer\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAASwBgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:14:23.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImageBox.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\ImageBox.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\ImageBox.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\ImageBox.cs",
+              "RelativeToolTip": "RemoteLanManager\\ImageBox.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:53:16.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ImageBox.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\ImageBox.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\ImageBox.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\ImageBox.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RemoteLanManager\\ImageBox.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:53:15.195Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ComputerScanner.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\ComputerScanner.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\ComputerScanner.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\ComputerScanner.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ComputerServer\\ComputerScanner.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:01:00.077Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Server.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Server.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\Server.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Server.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RemoteManager\\Server.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:56:28.862Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Client.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\Client.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Client.cs",
+              "RelativeToolTip": "RemoteManager\\Client.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAwK0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:56:00.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Client.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Client.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\Client.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Client.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RemoteManager\\Client.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:56:00.216Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PacketFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Serializer\\PacketFormatter.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\Serializer\\PacketFormatter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Serializer\\PacketFormatter.cs",
+              "RelativeToolTip": "RemoteManager\\Serializer\\PacketFormatter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:29:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KeyChecker.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\KeyChecker.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\KeyChecker.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\KeyChecker.cs",
+              "RelativeToolTip": "RemoteManager\\KeyChecker.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:41:57.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Server.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\Server.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Server.cs",
+              "RelativeToolTip": "RemoteManager\\Server.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwI0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:56:29.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DesktopViewer.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\DesktopViewer.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\DesktopViewer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\DesktopViewer.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ComputerServer\\DesktopViewer.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:05:55.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BinaryPacketSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Serializer\\BinaryPacketSerializer.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\Serializer\\BinaryPacketSerializer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Serializer\\BinaryPacketSerializer.cs",
+              "RelativeToolTip": "RemoteManager\\Serializer\\BinaryPacketSerializer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:00:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\Aprotect\\Program.cs",
+              "RelativeDocumentMoniker": "Aprotect\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\Aprotect\\Program.cs",
+              "RelativeToolTip": "Aprotect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:42:11.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\Program.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\Program.cs",
+              "RelativeToolTip": "ComputerServer\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:49:56.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Installer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Installer.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\Installer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Installer.cs",
+              "RelativeToolTip": "RemoteManager\\Installer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:02:52.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ComputerClient",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\ComputerClient.csproj",
+              "RelativeDocumentMoniker": "ComputerServer\\ComputerClient.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\ComputerClient.csproj",
+              "RelativeToolTip": "ComputerServer\\ComputerClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-19T08:47:56.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\MainForm.Designer.cs",
+              "RelativeToolTip": "ComputerServer\\MainForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:03:07.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DesktopViewer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\DesktopViewer.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\DesktopViewer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\DesktopViewer.cs",
+              "RelativeToolTip": "ComputerServer\\DesktopViewer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:58:49.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BinarySerializer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Serializer\\BinarySerializer.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\Serializer\\BinarySerializer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Serializer\\BinarySerializer.cs",
+              "RelativeToolTip": "RemoteManager\\Serializer\\BinarySerializer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:21:38.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ServerBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\ServerBase.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\ServerBase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\ServerBase.cs",
+              "RelativeToolTip": "RemoteManager\\ServerBase.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:26:27.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ServerBase.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\ServerBase.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\ServerBase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\ServerBase.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RemoteManager\\ServerBase.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:26:49.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClientEnv.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\ClientEnv.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\ClientEnv.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\ClientEnv.cs",
+              "RelativeToolTip": "ComputerServer\\ClientEnv.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:38:48.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\Program.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\Program.cs",
+              "RelativeToolTip": "RemoteLanManager\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:19:34.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ComputerScanner.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\ComputerScanner.Designer.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\ComputerScanner.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\ComputerScanner.Designer.cs",
+              "RelativeToolTip": "ComputerServer\\ComputerScanner.Designer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwIoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:03:01.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ComputerScanner.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\ComputerScanner.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\ComputerScanner.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\ComputerScanner.cs",
+              "RelativeToolTip": "ComputerServer\\ComputerScanner.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:08:19.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ExplorerListView.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\ExplorerListView.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\ExplorerListView.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\ExplorerListView.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RemoteManager\\ExplorerListView.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:55:27.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\Form1.Designer.cs",
+              "RelativeToolTip": "RemoteLanManager\\Form1.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:54:15.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ExplorerListView.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\ExplorerListView.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\ExplorerListView.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\ExplorerListView.cs",
+              "RelativeToolTip": "RemoteManager\\ExplorerListView.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:53:13.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProgEnv.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\ProgEnv.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\ProgEnv.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\ProgEnv.cs",
+              "RelativeToolTip": "RemoteLanManager\\ProgEnv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:37:38.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "RemoteLanManager\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:36:51.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Aprotect",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\Aprotect\\Aprotect.csproj",
+              "RelativeDocumentMoniker": "Aprotect\\Aprotect.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\Aprotect\\Aprotect.csproj",
+              "RelativeToolTip": "Aprotect\\Aprotect.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-19T16:36:16.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\Aprotect\\Form1.cs",
+              "RelativeDocumentMoniker": "Aprotect\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\Aprotect\\Form1.cs",
+              "RelativeToolTip": "Aprotect\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:35:19.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\Aprotect\\Form1.cs",
+              "RelativeDocumentMoniker": "Aprotect\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\Aprotect\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Aprotect\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:34:41.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RemoteManager",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\RemoteManager.csproj",
+              "RelativeDocumentMoniker": "RemoteManager\\RemoteManager.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\RemoteManager.csproj",
+              "RelativeToolTip": "RemoteManager\\RemoteManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-19T16:32:01.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "KeyInstallerForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\KeyInstallerForm.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\KeyInstallerForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\KeyInstallerForm.cs",
+              "RelativeToolTip": "RemoteLanManager\\KeyInstallerForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:20:43.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "KeyChangerForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\KeyChangerForm.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\KeyChangerForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\KeyChangerForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RemoteLanManager\\KeyChangerForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:07:06.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CommandTypes.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\CommandTypes.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\CommandTypes.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\CommandTypes.cs",
+              "RelativeToolTip": "RemoteManager\\CommandTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:36:25.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Env.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Env.cs",
+              "RelativeDocumentMoniker": "RemoteManager\\Env.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteManager\\Env.cs",
+              "RelativeToolTip": "RemoteManager\\Env.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:29:20.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\app.manifest",
+              "RelativeDocumentMoniker": "ComputerServer\\app.manifest",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\app.manifest",
+              "RelativeToolTip": "ComputerServer\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-12-19T09:34:36.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\App.config",
+              "RelativeDocumentMoniker": "ComputerServer\\App.config",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\App.config",
+              "RelativeToolTip": "ComputerServer\\App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-19T09:34:30.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "KeyInstallerForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\KeyInstallerForm.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\KeyInstallerForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\KeyInstallerForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RemoteLanManager\\KeyInstallerForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:34:10.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\SettingsForm.cs",
+              "RelativeToolTip": "RemoteLanManager\\SettingsForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:18:08.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SettingsForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "RemoteLanManager\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\SettingsForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RemoteLanManager\\SettingsForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:18:05.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "ComputerServer\\SettingsManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\ComputerServer\\SettingsManager.cs",
+              "RelativeToolTip": "ComputerServer\\SettingsManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:10:00.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RemoteLanManager",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\RemoteLanManager.csproj",
+              "RelativeDocumentMoniker": "RemoteLanManager\\RemoteLanManager.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelpdeskProje\\RemoteLanManager\\RemoteLanManager.csproj",
+              "RelativeToolTip": "RemoteLanManager\\RemoteLanManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-19T08:50:16.566Z"
             }
           ]
         },
         {
-          "DockedWidth": 366,
+          "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
             {

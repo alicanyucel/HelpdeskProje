@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\bin\Debug\Aprotect.exe.config
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\bin\Debug\Aprotect.exe
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\bin\Debug\Aprotect.pdb
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\bin\Debug\RemoteManager.dll
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\bin\Debug\RemoteManager.pdb
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\bin\Debug\RemoteManager.dll.config
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\obj\Debug\Aprotect.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\obj\Debug\Aprotect.Form1.resources
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\obj\Debug\Aprotect.Properties.Resources.resources
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\obj\Debug\Aprotect.csproj.GenerateResource.cache
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\obj\Debug\Aprotect.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\obj\Debug\Aprotect.csproj.Up2Date
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\obj\Debug\Aprotect.exe
+C:\Users\user\source\repos\HelpdeskProje\Aprotect\obj\Debug\Aprotect.pdb

@@ -6,6 +6,8 @@ using System.Linq;
 using System.Reflection;
 using System.Reflection.Emit;
 using System.Runtime.Remoting.Messaging;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -26,27 +28,34 @@ namespace RemoteManager.Serializer
             inputStream.Position = 0; 
             inputStream.Seek(0, SeekOrigin.Begin);
             Packet pack = (Packet)Activator.CreateInstance(typeof(Packet));
-            using (BinaryReader reader = new BinaryReader(inputStream))
-            {
-                string pack_signature=reader.ReadString(); 
-                if(pack_signature == "|PACKET|")
-                {
-                    pack.Commandtype = reader.ReadInt32();
-                    int len = reader.ReadInt32();
-                    for (int i = 0; i < len; i++)
-                    {
-                        read_object(pack, reader);
+            try {
+				using (BinaryReader reader = new BinaryReader(inputStream))
+				{
+					string pack_signature = reader.ReadString();
+					if (pack_signature == "|PACKET|")
+					{
+						pack.Commandtype = reader.ReadInt32();
+						int len = reader.ReadInt32();
+						for (int i = 0; i < len; i++)
+						{
+							read_object(pack, reader);
 
 
 
 
-                    }
-                }
-                else
-                {
-                    return null;
-                }
+						}
+					}
+					else
+					{
+						return null;
+					}
+				}
             }
+            catch (Exception ex) 
+            {
+                pack = null;
+             }
+           
             return pack;
         } 
         void read_object(Packet pack,BinaryReader reader)
@@ -69,6 +78,19 @@ namespace RemoteManager.Serializer
                     {
                         string data=reader.ReadString();
                         pack.Data.Add(data);
+                    } 
+                    else if (IsClass == true)
+                    {
+                        int len=reader.ReadInt32();
+                        byte[] bytes=reader.ReadBytes(len); 
+                        using(MemoryStream mem=new MemoryStream(bytes))
+                        {
+                            mem.Position = 0; 
+                            mem.Seek(0, SeekOrigin.Begin);
+                            BinaryFormatter formatter=new BinaryFormatter(); 
+                            object obj=formatter.Deserialize(mem); 
+                            pack.Data.Add(obj);
+                        }
                     }
 
                 }
@@ -158,11 +180,24 @@ namespace RemoteManager.Serializer
         {
 
 
-            bw.GetType().GetMethod("Write").Invoke(bw, new object[] { obj });
+            // bw.GetType().GetMethod("Write").Invoke(bw, new object[] { obj });
+            var methd = bw.GetType().GetMethods();
+            for (int i = 0; i < methd.Length; i++) {
+                if (methd[i].Name == "Write")
+                {
+					var args = methd[i].GetParameters()[0];
+                    if (args.ParameterType.IsValueType == true && args.ParameterType==typ)
+                    {
+                        methd[i].Invoke(bw, new object[] { obj }); 
+                    }
+                }
+               
+            }
+            
+            //methd.Invoke(obj, new object[] { typ });
 
 
-
-        } 
+		} 
         bool read_value_type_array(ref Array arr,int index,long type_handle,BinaryReader reader)
         {
             if (type_handle == typeof(Int16).TypeHandle.Value.ToInt64())

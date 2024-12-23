@@ -1,0 +1,15 @@
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\bin\Debug\ComputerServer.exe.config
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\bin\Debug\ComputerServer.exe
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\bin\Debug\ComputerServer.pdb
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\bin\Debug\RemoteManager.dll
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\bin\Debug\RemoteManager.pdb
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\obj\Debug\ComputerServer.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\obj\Debug\ComputerServer.Properties.Resources.resources
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\obj\Debug\ComputerServer.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\obj\Debug\ComputerServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\obj\Debug\Computer.4FB28BDC.Up2Date
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\obj\Debug\ComputerServer.exe
+C:\Users\user\Source\Repos\HelpdeskProje\ComputerServer\obj\Debug\ComputerServer.pdb
+C:\Users\user\source\repos\HelpdeskProje\ComputerServer\obj\Debug\ComputerServer.Form2.resources
+C:\Users\user\source\repos\HelpdeskProje\ComputerServer\obj\Debug\ComputerServer.ComputerScanner.resources
+C:\Users\user\source\repos\HelpdeskProje\ComputerServer\obj\Debug\ComputerServer.MainForm.resources
